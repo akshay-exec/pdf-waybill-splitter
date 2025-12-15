@@ -62,7 +62,7 @@ def split_group_and_move(folder_path, output_folder):
             except Exception as e:
                 print(f"Error processing {filename}: {e}")
 
-# 🔧 Update these paths inside the script before running
+# 🔧 Update these paths before running
 input_folder = r"PATH_TO_INPUT_PDF_FOLDER"
 output_folder = r"PATH_TO_OUTPUT_PDF_FOLDER"
 
